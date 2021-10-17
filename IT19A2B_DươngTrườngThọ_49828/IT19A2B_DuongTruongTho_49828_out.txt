@@ -1,0 +1,5 @@
+--- SINH VIÊN CÓ ĐIỂM KHÁ TRỞ LÊN ---
+
+Mã học viên     Tên Học Viên              Số Điện Thoại         Điểm Lý Thuyết       Điểm Thực Hành      Điểm Trung Bình             Xếp loại
+HV02            Nguyễn Văn Sơn            0906756458                       6.9                  9.4                 8.15                 Giỏi
+HV05            Nguyễn Văn Huy            0965478647                       9.2                  8.8                  9.0             Xuất sắc
